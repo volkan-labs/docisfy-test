@@ -16,7 +16,16 @@
     <script>
       window.$docsify = {
         loadSidebar: true,
-        subMaxLevel: 2
+        subMaxLevel: 2,
+        search: {
+          maxAge: 43200000,
+          placeholder: {
+            '/': 'Search'
+          },
+          noData: {
+            '/': 'No Results'
+          }
+        }
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
