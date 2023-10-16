@@ -4,4 +4,4 @@
   <!-- - [Introduction](/#initialize) -->
 - [FAQ](faq.md)
 - [Lorem](lorem.md)
-- [Test](google.com)
+- [Test](https://google.com)
